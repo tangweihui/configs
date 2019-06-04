@@ -1,7 +1,7 @@
 <?php
 namespace Etocrm\Configs;
 
-use App\Model\ConfigManages;
+use Etocrm\Configs\Model\ConfigManages;
 use Illuminate\Support\Facades\{Schema, Log};
 
 class Configs
