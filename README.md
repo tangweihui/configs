@@ -6,7 +6,7 @@ Configs
 
 ## Installation
 
-To install Mockery, run the command below and you will get the latest
+To install Configs, run the command below and you will get the latest
 version
 
 ```php
