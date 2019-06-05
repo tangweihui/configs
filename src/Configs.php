@@ -13,7 +13,7 @@ class Configs
      */
     public static function load()
     {
-        if($organizationId = config('configs.organizationId', null)){
+        if($organizationId = config('configs.orgId', null)){
             \Tool::changeDatabase($organizationId);
         }
 
