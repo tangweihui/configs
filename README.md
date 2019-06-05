@@ -15,7 +15,7 @@ composer require etocrm/configs
 
 add the ServiceProvider to the providers array in `config/app.php`
 ```php
-Maatwebsite\Excel\ExcelServiceProvider::class,
+Etocrm\Configs\ConfigsServiceProvider::class
 ```
 
 call the Config::load() method within the boot method in `app/Providers/AppServiceProvider.php`:
