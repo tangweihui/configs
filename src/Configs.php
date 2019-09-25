@@ -22,6 +22,7 @@ class Configs
                 config([$config['key'] => $config['value']]);
             }
         }else{
+            //
             // Log::error('table not exists');
         }
 
