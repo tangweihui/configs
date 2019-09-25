@@ -4,7 +4,7 @@ Configs
 [![Downloads](https://packagist.org/packages/etocrm/configs)
 
 
-## Installation
+## Installations
 
 To install Configs, run the command below and you will get the latest
 version
